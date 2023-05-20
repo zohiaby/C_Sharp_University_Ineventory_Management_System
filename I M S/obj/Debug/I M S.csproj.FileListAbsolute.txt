@@ -1,0 +1,58 @@
+E:\visual\Updated Project\I M S\I M S\obj\Debug\I_M_S.AddItem.resources
+E:\visual\Updated Project\I M S\I M S\obj\Debug\I_M_S.AddSociety.resources
+E:\visual\Updated Project\I M S\I M S\obj\Debug\I_M_S.Admin.resources
+E:\visual\Updated Project\I M S\I M S\obj\Debug\I_M_S.ApproveRequirements.resources
+E:\visual\Updated Project\I M S\I M S\obj\Debug\I_M_S.EditItem.resources
+E:\visual\Updated Project\I M S\I M S\obj\Debug\I_M_S.EditSocietie.resources
+E:\visual\Updated Project\I M S\I M S\obj\Debug\I_M_S.EditUser.resources
+E:\visual\Updated Project\I M S\I M S\obj\Debug\I_M_S.Form1.resources
+E:\visual\Updated Project\I M S\I M S\obj\Debug\I_M_S.ManageUsers.resources
+E:\visual\Updated Project\I M S\I M S\obj\Debug\I_M_S.Properties.Resources.resources
+E:\visual\Updated Project\I M S\I M S\obj\Debug\I_M_S.RequirementGathering.resources
+E:\visual\Updated Project\I M S\I M S\obj\Debug\I_M_S.SuperAdminDashboard.resources
+E:\visual\Updated Project\I M S\I M S\obj\Debug\I_M_S.UserLogoingDetails.resources
+E:\visual\Updated Project\I M S\I M S\obj\Debug\I M S.csproj.GenerateResource.cache
+E:\visual\Updated Project\I M S\I M S\obj\Debug\I M S.csproj.CoreCompileInputs.cache
+E:\visual\Updated Project\I M S\I M S\obj\Debug\I M S.csproj.AssemblyReference.cache
+E:\visual\Updated Project\I M S\I M S\bin\Debug\I M S.exe.config
+E:\visual\Updated Project\I M S\I M S\bin\Debug\I M S.exe
+E:\visual\Updated Project\I M S\I M S\bin\Debug\I M S.pdb
+E:\visual\Updated Project\I M S\I M S\bin\Debug\EntityFramework.dll
+E:\visual\Updated Project\I M S\I M S\bin\Debug\EntityFramework.SqlServer.dll
+E:\visual\Updated Project\I M S\I M S\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\visual\Updated Project\I M S\I M S\bin\Debug\Oracle.DataAccess.dll
+E:\visual\Updated Project\I M S\I M S\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\visual\Updated Project\I M S\I M S\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+E:\visual\Updated Project\I M S\I M S\bin\Debug\System.Buffers.dll
+E:\visual\Updated Project\I M S\I M S\bin\Debug\System.Memory.dll
+E:\visual\Updated Project\I M S\I M S\bin\Debug\System.Numerics.Vectors.dll
+E:\visual\Updated Project\I M S\I M S\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\visual\Updated Project\I M S\I M S\bin\Debug\System.Text.Encodings.Web.dll
+E:\visual\Updated Project\I M S\I M S\bin\Debug\System.Text.Json.dll
+E:\visual\Updated Project\I M S\I M S\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\visual\Updated Project\I M S\I M S\bin\Debug\System.ValueTuple.dll
+E:\visual\Updated Project\I M S\I M S\bin\Debug\EntityFramework.xml
+E:\visual\Updated Project\I M S\I M S\bin\Debug\EntityFramework.SqlServer.xml
+E:\visual\Updated Project\I M S\I M S\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\visual\Updated Project\I M S\I M S\bin\Debug\System.Buffers.xml
+E:\visual\Updated Project\I M S\I M S\bin\Debug\System.Memory.xml
+E:\visual\Updated Project\I M S\I M S\bin\Debug\System.Numerics.Vectors.xml
+E:\visual\Updated Project\I M S\I M S\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\visual\Updated Project\I M S\I M S\bin\Debug\System.Text.Encodings.Web.xml
+E:\visual\Updated Project\I M S\I M S\bin\Debug\System.Text.Json.xml
+E:\visual\Updated Project\I M S\I M S\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\visual\Updated Project\I M S\I M S\bin\Debug\System.ValueTuple.xml
+E:\visual\Updated Project\I M S\I M S\obj\Debug\I M S.csproj.CopyComplete
+E:\visual\Updated Project\I M S\I M S\obj\Debug\I M S.exe
+E:\visual\Updated Project\I M S\I M S\obj\Debug\I M S.pdb
+E:\visual\Updated Project\I M S\I M S\obj\Debug\I_M_S.SocietyItemRequired.resources
+E:\visual\Updated Project\I M S\I M S\bin\Debug\Microsoft.IdentityModel.Logging.dll
+E:\visual\Updated Project\I M S\I M S\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+E:\visual\Updated Project\I M S\I M S\bin\Debug\Newtonsoft.Json.dll
+E:\visual\Updated Project\I M S\I M S\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+E:\visual\Updated Project\I M S\I M S\bin\Debug\Twilio.dll
+E:\visual\Updated Project\I M S\I M S\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+E:\visual\Updated Project\I M S\I M S\bin\Debug\Newtonsoft.Json.xml
+E:\visual\Updated Project\I M S\I M S\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+E:\visual\Updated Project\I M S\I M S\bin\Debug\Twilio.xml
+E:\visual\Updated Project\I M S\I M S\obj\Debug\I_M_S.ok.resources
